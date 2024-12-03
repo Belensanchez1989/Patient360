@@ -1,4 +1,8 @@
 # Patient360
+![Captura de pantalla 2024-12-03 092158](https://github.com/user-attachments/assets/824ee48a-5e16-4130-91fa-928f0047fca8)
+![Captura de pantalla 2024-12-03 092255](https://github.com/user-attachments/assets/5b1b1f74-c4e4-45bb-b564-a7a54e852f47)
+![Captura de pantalla 2024-12-03 092316](https://github.com/user-attachments/assets/853a1256-beb9-4214-9172-8cf0cd6bcc3e)
+![Captura de pantalla 2024-12-03 092416](https://github.com/user-attachments/assets/130e7973-1a0e-409b-bfa9-30d560af7044)
 ## Reto: Herramienta Digital para la Gestión Integral de Condiciones Crónicas (CRM)
 
 ## Índice
